@@ -1,0 +1,17 @@
+{
+  "name": "webpack-serve-crash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "keywords": [],
+  "author": "Juho Vepsäläinen",
+  "license": "ISC",
+  "devDependencies": {
+    "mini-html-webpack-plugin": "^0.2.3",
+    "webpack": "^4.5.0",
+    "webpack-serve": "^0.3.1"
+  }
+}
